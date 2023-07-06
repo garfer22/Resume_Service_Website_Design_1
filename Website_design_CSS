@@ -1,0 +1,109 @@
+
+h1{ 
+  text-align: center;
+  color: orange;
+  font-family: 'Rubik', sans-serif;
+  font-size: 30px;
+  border-style: solid;
+  border-width: 3px;
+}
+
+h2{
+  font-weight: bold;
+}
+
+ul.breadcrumb li{
+  display: inline;
+  font-size: 20px;
+  margin: 30px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+ul.breadcrumb li+li ::before {
+  padding: 10px;
+}
+
+p{
+  font-family: 'DM Sans', sans-serif;
+}
+
+/* Resume image */
+.resume{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+/* steps of resume building */
+.service{
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.payment{
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.building{
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Service Image*/
+.selecting{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 8px;
+}
+
+.paying{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 8px;
+}
+
+.creating{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 8px;
+}
+
+
+/* Footer content */
+.contact{
+  display: inline-block;
+  margin: 40px;
+}
+
+.links{
+  display: inline-block;
+  margin: 40px;
+}
+
+.social{
+  display: inline-block;
+  margin: 30px;
+}
+
+.footer{
+  border-style: solid;
+  background-color: orange;
+  border-width: 3px;
+}
